@@ -1,0 +1,152 @@
+
+.colored-section {
+    background: rgba(228, 198, 255, 0.4);
+    text-align: center;
+    border: 1px solid black;
+    width: 600 px;
+    margin: 30 px ;
+
+}
+
+
+.parte-izquierda{
+    margin:40px;
+    margin-left:1000 px;
+    border: 1px solid darkgoldenrod;
+    width: 100 px;
+    float:left
+}
+
+aside{
+    float:right;
+    margin: 20px 0;
+
+
+}
+.part {
+    font-size: 40px;
+    font-weight:800;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:red;
+}
+
+
+#titulo { font-size: 40px;
+    color:darkcyan
+}
+
+.Datos{
+    font-size: 16px;
+}
+
+.Datos1{
+    background-color: #000080;
+    border:10 px  dashed  purple;
+}
+
+.Datos2{
+    background-color: #000080;
+    border:10 px  dashed  purple;
+}
+
+.Titulo1{
+    font-size: 40px;
+    font-family:fantasy;
+    color:darkcyan
+}
+
+.Titulo2{
+    font-size:40px;
+    font-family:fantasy;
+    color:dodgerblue
+}
+
+.Titulo3{
+    font-size:40px;
+    font-family:fantasy;
+    color:deeppink
+}
+
+.Titulo4{
+    font-size:40px;
+    font-family:fantasy;
+    color:darkorchid
+}
+
+.container {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-nav li a:hover {
+    color: #4A3CA6 !important;
+}
+
+.nav-link {
+    color: #9896D9;
+}
+
+.navbar-brand {
+    background: linear-gradient(to left, #9896D9, #4A3CA6);
+    font-size: 2rem;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.footer-heading {
+    color: #9896D9
+}
+
+.link-secondary {
+    color: #9896D9
+}
+
+
+.footer {
+    margin-top: 0;
+    text-align: center;
+    width: 100%;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.footer-hr {
+    border: none;
+    height: 5px;
+    background-color: #4A3CA6;
+}
+
+.scroll-to-top-container {
+    position: relative;
+}
+
+.scroll-to-top {
+    position: absolute;
+    font-size: 24px;
+    top: -18px;
+    background-color: #9896D9;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    transform: translateX(-50%);
+}
+
+.scroll-to-top:hover {
+    top: -22px;
+    background-color: #4A3CA6;
+}
+
+
+
